@@ -1,0 +1,6 @@
+Original Array: 5 2 8 12 1 
+Iteration 1: 2 5 8 12 1 
+Iteration 1: 2 5 8 1 12 
+Iteration 2: 2 5 1 8 12 
+Iteration 3: 2 1 5 8 12 
+Iteration 4: 1 2 5 8 12 
